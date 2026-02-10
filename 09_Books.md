@@ -27,36 +27,28 @@ Toàn bộ thị trường sách chia làm 4 nhóm chính. Đây là bảng phâ
 ### 3. Deep Dive Database: Ví dụ về Cây thư mục (Taxonomy Tree)
 Minh họa sự phân nhánh từ Gốc đến Ngọn của 2 ngành:
 
-A. Computers & Technology (COM000000)
+#### A. Computers & Technology (COM000000)
 
 Root: Computers
-
 Branch: Programming
-
 Sub-Branch: Languages -> Python / C++ / Java
-
 Sub-Branch: Algorithms -> Data Structures
-
 Branch: Security
-
 Sub-Branch: Encryption / Hacking / Malware
 
-B. Business & Money (BUS000000)
-
+#### B. Business & Money (BUS000000)
 Root: Business
-
 Branch: Personal Finance
-
 Sub-Branch: Budgeting
-
 Sub-Branch: Investing -> Stocks / Real Estate / Crypto
 
-PHẦN 2: THUẬT TOÁN "10 CẤP ĐỘ SÂU" (THE 10-LEVEL ALGORITHM)
+## PHẦN 2: THUẬT TOÁN "10 CẤP ĐỘ SÂU" (THE 10-LEVEL ALGORITHM)
 Đây là Core Logic của toàn bộ chiến lược. Bạn không được dừng ở cấp 4. Tiền nằm ở cấp 8-10.
 
 ![alt text](4cap-image.jpg)
 
 Cấu trúc Logic 10 Cấp
+
 Level 1 (Root): Books
 
 Level 2 (Dept): Nhóm ngành lớn (Department)
@@ -100,7 +92,7 @@ L9: Logbook (Sổ ghi chép - Low Content)
 
 L10 (Sản phẩm): "The Debugger's Black Book: A Professional Log for Tracking Bugs & Solutions"
 
-## PHẦN 2: CÁC LOẠI HÌNH SÁCH (PRODUCT TYPES CLASSIFICATION)
+## PHẦN 3: CÁC LOẠI HÌNH SÁCH (PRODUCT TYPES CLASSIFICATION)
 Trên nền tảng Amazon KDP, sản phẩm sách được phân loại dựa trên "Mật độ nội dung" (Content Density) và "Mức độ tương tác" (User Interaction). Hiểu rõ 3 nhóm chính này giúp bạn chọn đúng chiến trường phù hợp với kỹ năng và nguồn lực của mình.
 
 ### 1. High Content (Sách Nội Dung Cao - Reading Books)
@@ -182,7 +174,7 @@ Rủi ro tài khoản: Amazon kiểm soát rất gắt gao về "Duplicate Conte
 
 Không có mã ISBN miễn phí: Với một số loại Low Content (như sổ dòng kẻ trơn), Amazon không cấp ISBN miễn phí nữa.
 
-## PHẦN 3: QUY TRÌNH KỸ THUẬT (TECHNICAL EXECUTION)
+## PHẦN 4: QUY TRÌNH KỸ THUẬT (TECHNICAL EXECUTION)
 Quy trình 0 đồng từ A-Z với các thông số kỹ thuật chính xác.
 
 ### Bước 1: Setup Tài khoản
@@ -227,7 +219,7 @@ Chiến thuật: Điền các cụm từ dài (Long-tail) tìm được ở Cấ
 
 Ví dụ: "coding gift for men", "programmer notebook", "debugging tool".
 
-## PHẦN 4: CHECKLIST DÀNH RIÊNG CHO CODER
+## PHẦN 5: CHECKLIST DÀNH RIÊNG CHO CODER
 Bạn có lợi thế kỹ thuật, hãy tận dụng nó:
 
 Automate Content: Viết script Python để tạo ra 1000 bài toán cộng trừ nhân chia hoặc 500 bài tập Regex -> Đóng gói thành "Math Workbook" hoặc "Regex Workbook".
@@ -236,7 +228,7 @@ Scrape Ideas: Dùng tool cào dữ liệu Amazon để xem cuốn Logbook nào �
 
 Niche Tech: Làm Logbook cho các ngách hẹp bạn biết: "Crypto Trading Journal", "Server Maintenance Log", "IP Proxy Config Checklist".
 
-## PHẦN 5: LUẬT CHƠI CỦA AMAZON (2025-2026)
+## PHẦN 6: LUẬT CHƠI CỦA AMAZON (2025-2026)
 một "cái bẫy" chết người mà rất nhiều người mới làm KDP (Newbie) mắc phải, dẫn đến việc tài khoản bị khóa vĩnh viễn (Account Termination) vì lỗi "Duplicate Content" (Trùng lặp nội dung).
 
 Dưới đây là phân tích chi tiết để bạn hiểu "luật chơi" hiện tại của Amazon (2025-2026):
