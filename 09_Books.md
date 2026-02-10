@@ -130,7 +130,7 @@ Tốn rất nhiều thời gian (viết, biên tập, dàn trang).
 
 Cạnh tranh gay gắt với các tác giả nổi tiếng và nhà xuất bản lớn.
 
-2. Medium Content (Sách Nội Dung Trung Bình - Interactive Books)
+### 2. Medium Content (Sách Nội Dung Trung Bình - Interactive Books)
 Đây là "điểm ngọt" (Sweet Spot) của giới làm KDP hiện nay. Sách có nội dung định hướng, nhưng cần người dùng tương tác để hoàn thiện.
 
 Định nghĩa: Sách kết hợp giữa thông tin và chỗ trống, người dùng mua để TƯƠNG TÁC (Viết, vẽ, giải đố).
@@ -155,7 +155,7 @@ Nhược điểm:
 
 Cần kỹ năng thiết kế hoặc lập trình để tạo nội dung chất lượng.
 
-3. Low Content (Sách Nội Dung Thấp - Stationary Books)
+### 3. Low Content (Sách Nội Dung Thấp - Stationary Books)
 Đây là dạng sách công cụ, đóng vai trò như văn phòng phẩm.
 
 Định nghĩa: Sách có nội dung lặp lại hoặc rất ít chữ, người dùng mua để GHI CHÉP.
