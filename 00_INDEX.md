@@ -34,6 +34,7 @@ The AI Book Production Engine is an automated, data-driven publishing business t
 | 06 | [06_SERVICES.md](06_SERVICES.md) | Vendor | Service dependency map, vendor profiles & alternatives, vendor management framework, cost optimization, failover design, partnership strategy |
 | 07 | [07_OPERATIONS.md](07_OPERATIONS.md) | Operations | Org structure, RACI matrix, SOPs (9 procedures), daily/weekly/monthly schedules, operational KPIs, incident response, reporting templates |
 | 08 | [08_MVP_CHECKLIST.md](08_MVP_CHECKLIST.md) | Execution | Day-by-day 28-day implementation plan, pre-launch setup, weekly milestones, success criteria, post-MVP priorities |
+| 09 | [09_Books.md](09_Books.md) | Content | Book types, content density, technical execution, Amazon rules, coder checklist |
 
 ---
 
